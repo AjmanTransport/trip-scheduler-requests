@@ -1,0 +1,18 @@
+{
+  "request_id": "REQ_20260315_010532_4CDBCC",
+  "type": "send_notification",
+  "pc_hash": "BA94A4AE07D3C6F8BFEADFFFAA9B65FCECB03C477BE81C5FA9D7C101F419F4C4",
+  "pc_name": "BPD-1207-Abdel",
+  "windows_user": "abdelhameed.mohamed",
+  "payload_file_local": "requests_outbox/payloads/REQ_20260315_010532_4CDBCC_notification.json",
+  "payload_target_live_key": "data_notification",
+  "created_at": "2026-03-15T01:05:32",
+  "status": "pending",
+  "notes": "",
+  "payload_file_repo": "requests_payloads/REQ_20260315_010532_4CDBCC_notification.json",
+  "requests_repo": {
+    "owner": "AjmanTransport",
+    "repo": "trip-scheduler-requests",
+    "branch": "main"
+  }
+}
