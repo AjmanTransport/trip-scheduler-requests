@@ -1,0 +1,13 @@
+{
+  "kind": "bundle",
+  "bundle_kind": "notification",
+  "files": [
+    {
+      "repo_path": "data/notification.json",
+      "content_b64": "ew0KICAiYWN0aXZlIjogdHJ1ZSwNCiAgImlkIjogIjIwMjYwMzE2MDEyMTEzIiwNCiAgInRpdGxlIjogImF0dGVuc2lvbiBwbGVhc2UiLA0KICAiY29udGVudCI6ICJidXMgZ29pbmcgdG8gYWwgYWluIHdpbGwgZGVsYXkgZm9yIDExIG1pbnMiLA0KICAiZHVyYXRpb24iOiAzMCwNCiAgImNyZWF0ZWRfYXQiOiAiMjAyNi0wMy0xNlQwMToyMToxMyINCn0=",
+      "size_bytes": 200
+    }
+  ],
+  "request_id": "REQ_20260316_012113_3DF91F",
+  "created_at": "2026-03-16T01:21:13"
+}
