@@ -1,0 +1,30 @@
+{
+  "kind": "bundle",
+  "bundle_kind": "notification",
+  "files": [
+    {
+      "repo_path": "data/notification.json",
+      "content_b64": "ew0KICAiYWN0aXZlIjogdHJ1ZSwNCiAgImlkIjogIjIwMjYwMzE2MDAzMjQwIiwNCiAgInRpdGxlIjogInRlc3QiLA0KICAiY29udGVudCI6ICJ0ZXN0IHR3byIsDQogICJkdXJhdGlvbiI6IDMwLA0KICAiY3JlYXRlZF9hdCI6ICIyMDI2LTAzLTE2VDAwOjMyOjQwIg0KfQ==",
+      "size_bytes": 154,
+      "sha256": "be3e2ecfe6a47fc65f94da99e93a94b79adbe2a6994e08b9df82eca0a4ac5a61"
+    }
+  ],
+  "request_id": "REQ_20260316_003240_72C884",
+  "created_at": "2026-03-16T00:32:40",
+  "generated_by": {
+    "pc_name": "BPD-1207-Abdel",
+    "windows_user": "abdelhameed.mohamed",
+    "pc_hash": "BA94A4AE07D3C6F8BFEADFFFAA9B65FCECB03C477BE81C5FA9D7C101F419F4C4",
+    "wrapper_version": "user-wrapper-prod-1.0",
+    "core_filename": "trip_scheduler_eta_sync_publish_stations_v107_production_core.py",
+    "core_sha256": "708ac5bc1cba73c88d1c2648c7b3ee18d1a6a5882c15aee9c72b8c279beca07a"
+  },
+  "signing": {
+    "alg": "HMAC-SHA256",
+    "wrapper_version": "user-wrapper-prod-1.0",
+    "payload_sha256": "fc2ba9ce82be7d3c9ece501d7c4a6800d84e9cef9b08fd2acc0fd23a3ed6b0ec",
+    "request_sha256": "3a959f9941f5697425af845f48618557d3807108c1d56b5bf6a0671b4c8663d7",
+    "signature": "94982c766705e8d4c873b452bcdf095f34d9f16a03494908e7b6ec67f0c12c08",
+    "signed_at": "2026-03-16T00:32:40"
+  }
+}
