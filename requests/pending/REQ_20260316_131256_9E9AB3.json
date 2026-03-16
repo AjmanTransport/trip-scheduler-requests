@@ -1,0 +1,25 @@
+{
+  "request_id": "REQ_20260316_131256_9E9AB3",
+  "type": "send_notification",
+  "pc_hash": "BA94A4AE07D3C6F8BFEADFFFAA9B65FCECB03C477BE81C5FA9D7C101F419F4C4",
+  "pc_name": "BPD-1207-Abdel",
+  "windows_user": "abdelhameed.mohamed",
+  "created_at": "2026-03-16T13:12:56",
+  "status": "pending",
+  "notes": "",
+  "payload_sha256": "ccbbfb83e746274c199b1af8e15635f8ae3dd3dbb577ad9bb7de2e2a822ba8c1",
+  "payload_signature": "9187043357e3380c6c5106f0343c26a7bcf7bff66d503df11df73854baad27dd",
+  "signature_algorithm": "HMAC-SHA256",
+  "bundle_file_count": 1,
+  "bundle_repo_paths": [
+    "data/notification.json"
+  ],
+  "request_signature": "4ba43a739cf0a3e46ef12ae3bb82ed55f470423d87e503f0d21905a19c2e06f8",
+  "payload_file_local": "requests_outbox/payloads/REQ_20260316_131256_9E9AB3_bundle.json",
+  "requests_repo": {
+    "owner": "AjmanTransport",
+    "repo": "trip-scheduler-requests",
+    "branch": "main"
+  },
+  "payload_file_repo": "requests_payloads/REQ_20260316_131256_9E9AB3_bundle.json"
+}
