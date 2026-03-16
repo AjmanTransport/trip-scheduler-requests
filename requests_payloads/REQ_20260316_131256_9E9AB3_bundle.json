@@ -1,0 +1,19 @@
+{
+  "kind": "signed_bundle",
+  "signature_algorithm": "HMAC-SHA256",
+  "payload_core": {
+    "kind": "bundle",
+    "bundle_kind": "notification",
+    "files": [
+      {
+        "repo_path": "data/notification.json",
+        "content_b64": "ew0KICAiYWN0aXZlIjogdHJ1ZSwNCiAgImlkIjogIjIwMjYwMzE2MTMxMjU2IiwNCiAgInRpdGxlIjogIkF0dGVuc2lvbiBwbGVhc2UiLA0KICAiY29udGVudCI6ICJidXMgZ29pbmcgdG8gYWJ1IGRoYWJpIHdpbGwgYXJyaXZlIG5vdyBpbiAyIG1pbnMiLA0KICAiZHVyYXRpb24iOiAzMCwNCiAgImNyZWF0ZWRfYXQiOiAiMjAyNi0wMy0xNlQxMzoxMjo1NiINCn0=",
+        "size_bytes": 206
+      }
+    ],
+    "request_id": "REQ_20260316_131256_9E9AB3",
+    "created_at": "2026-03-16T13:12:56"
+  },
+  "payload_sha256": "ccbbfb83e746274c199b1af8e15635f8ae3dd3dbb577ad9bb7de2e2a822ba8c1",
+  "payload_signature": "9187043357e3380c6c5106f0343c26a7bcf7bff66d503df11df73854baad27dd"
+}
